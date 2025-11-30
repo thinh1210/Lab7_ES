@@ -1,0 +1,4 @@
+../Core/Src/snake.c:18:6:draw_GridSquare	1
+../Core/Src/snake.c:25:6:spawn_Food	7
+../Core/Src/snake.c:51:6:game_Init	2
+../Core/Src/snake.c:76:6:update_Game	19

@@ -1,0 +1,17 @@
+../Core/Src/main.c:106:5:main	4
+../Core/Src/main.c:179:6:SystemClock_Config	3
+../Core/Src/main.c:224:6:draw_Game_Border	3
+../Core/Src/main.c:245:6:system_init	1
+../Core/Src/main.c:256:6:test_LedDebug	2
+../Core/Src/main.c:266:9:isButtonSpeedEasy	6
+../Core/Src/main.c:273:9:isButtonSpeedMedium	6
+../Core/Src/main.c:280:9:isButtonSpeedHard	6
+../Core/Src/main.c:287:9:isButtonSpeedExpert	6
+../Core/Src/main.c:294:9:isButtonClear	6
+../Core/Src/main.c:300:9:isButtonStart	6
+../Core/Src/main.c:306:9:isButtonUp	6
+../Core/Src/main.c:313:9:isButtonDown	6
+../Core/Src/main.c:319:9:isButtonLeft	6
+../Core/Src/main.c:325:9:isButtonRight	6
+../Core/Src/main.c:331:6:touchProcess	26
+../Core/Src/main.c:478:6:Error_Handler	1
